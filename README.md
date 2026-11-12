@@ -1,6 +1,6 @@
-# PokeSingle legal pages
+# CardGlint legal pages
 
-Static HTML and CSS for the PokeSingle privacy policy, terms of service, and support page.
+Static HTML and CSS for the CardGlint (formerly PokeSingle) privacy policy, terms of service, and support page.
 
 - Privacy: https://ioannischadjiminas.github.io/pokesingle-legal/privacy/
 - Terms: https://ioannischadjiminas.github.io/pokesingle-legal/terms/
